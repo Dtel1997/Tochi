@@ -1,0 +1,52 @@
+#div1{
+    background-image: url('access.jpg');
+    padding: 50px;
+    border: 0;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+
+#div2{
+    background-color: gray;
+    margin-top: -33px;
+    margin-left: -8px;
+    margin-right: -8px; 
+    border: 0%;
+    height: 100%;
+    padding-bottom: 3%;
+    position: relative;
+}
+
+#div2a{
+    margin: 0 auto;
+    border: 0;
+}
+
+#div3{
+    background-color: black;
+    margin-top: -20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    padding: 16px;
+}
+
+@media (max-width: 400px) {
+    header{
+        text-align: center;
+        color: goldenrod;
+        background-color: black;
+        padding: 20px;
+        border-radius: 30px; 
+}
